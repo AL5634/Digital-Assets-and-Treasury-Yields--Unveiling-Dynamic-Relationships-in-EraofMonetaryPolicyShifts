@@ -1,5 +1,9 @@
 # Digital-Assets-and-Treasury-Yields--Unveiling-Dynamic-Relationships-in-EraofMonetaryPolicyShifts
 the python code and data of the paper
+1. the file path use author's local PC path, for other users, you need to downloan the "data.xlsx" and change to your own path
+2. the "data.xlsx"is the supplement data, the "results.xlsx" is the empirical results for lead-lag and Granger causality
+3. Please install the needed python package when you running the jupyter lab file"Paper_Code_V1.ipynb"
+4. "Paper_Code_V1.ipynb" output date"0-500" which is in reverse order of"2021-*"to "2024-*"
 
 MIT License
 
